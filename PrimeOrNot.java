@@ -18,6 +18,6 @@ public class PrimeOrNot
 	   	else{
 	        System.out.println("not prime");
 	   	   }
-	   	
+		sc.close();
 	}
 }
